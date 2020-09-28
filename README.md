@@ -5,7 +5,7 @@ Build Status
 https://Mobsonscoin.org
 
 What is Mobsonscoin?
-Mobsosnscoin is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Litecoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Mobsonscoin Core is the name of open source software which enables the use of this currency.
+Mobsosnscoin is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Mobsonscoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Mobsonscoin Core is the name of open source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of the Mobsonscoin Core software, see https://Mobsonscoin.org.
 
