@@ -1,5 +1,4 @@
-# .atom
-Mobsonscoin Core integration/staging tree
+#  Mobsonscoin Core integration/staging tree
 Build Status
 
 https://Mobsonscoin.org
